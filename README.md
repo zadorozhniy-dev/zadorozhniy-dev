@@ -23,7 +23,7 @@
 
 ### 🛠 Tech Stack
 
-- **Languages**: `JavaScript`, `Python`, `HTML`, `CSS`
+- **Languages**: `JavaScript`, `Python`, `HTML`, `CSS`, `C#`
 - **Tools**: `Git`, `VS Code`, `npm`, `Node.js`
 - **Learning**: `React`, `Express`, `APIs`, `MongoDB`
 
