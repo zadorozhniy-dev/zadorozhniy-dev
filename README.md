@@ -49,4 +49,6 @@
 
 ### 🤝 Let's connect
 
+[@zadorozhniy-dev](https://github.com/zadorozhniy-dev/)
+
 Feel free to reach out if you want to collaborate, share music ideas, or build something cool together.
